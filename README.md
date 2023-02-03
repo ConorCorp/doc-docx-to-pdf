@@ -1,6 +1,6 @@
 # doc-docx-to-pdf
 
-Quick Action for macOS to turn a batch of DOC &amp; DOCX files into a pdf in the same folder.
+Quick Action for macOS to turn one file or a batch of DOC &amp; DOCX files into a pdf in the same folder.
 
 ## Requirements
 
